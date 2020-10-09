@@ -39,7 +39,7 @@
 
 **URL** (Uniform Resource Locator) – абсолютный путь, порт и домен, на котором расположен ресурс. 
 
-![url-schema](yandex_tech_writer/url-schema.png)
+![url-schema](tech-writer/url-schema.png)
 
 ###  Для чего указывается версия HTTP?
 
@@ -64,7 +64,7 @@
 
 ### Пример HTTP-запроса
 
-![http-request-str](yandex_tech_writer/http-request-str.png)
+![http-request-str](tech-writer/http-request-str.png)
 
 ## Что такое HTTP-ответ?
 
@@ -98,7 +98,7 @@
 
 ### Пример HTTP-ответа
 
-![http-request-str](yandex_tech_writer/http-response-str.png)
+![http-request-str](tech-writer/http-response-str.png)
 
 ## HTTPS и его отличия от HTTP
 
